@@ -20,6 +20,7 @@ body{
 
 .header ul{
     display: flex;
+    gap: 15px;
 }
 
 .header ul li{
@@ -29,4 +30,5 @@ body{
 .header ul li a{
     font-size: 18px;
     color: #E5E7EB;
+    text-decoration: none;
 }
