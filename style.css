@@ -41,3 +41,9 @@ body{
 .heroblurb{
     width: 350px;
 }
+
+.heroblurb h1{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
