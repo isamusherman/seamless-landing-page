@@ -2,9 +2,10 @@ body{
     font-family: roboto, sans-serif;
 }
 
-.hero{
+.topdiv{
     display: flex;
     background-color: #1F2937;
+    flex-direction: column;
 }
 .header{
     display: flex;
