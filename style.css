@@ -41,6 +41,7 @@ body{
     justify-content: space-between;
     margin-left: 250px;
     margin-right: 250px;
+    margin-bottom: 80px;
 }
 
 .heroblurb{
@@ -58,4 +59,11 @@ body{
     size: 18px;
     color: #E5E7EB;
     margin: 0;
+}
+
+.hero button{
+    color: #F9FAF8;
+    background-color: #3882F6;
+    padding: 4px 16px 4px 16px;
+    border-radius: 8px;
 }
