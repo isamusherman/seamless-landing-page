@@ -22,3 +22,8 @@ body{
 .header ul li{
     list-style-type: none;
 }
+
+.header ul li a{
+    font-size: 18px;
+    color: #E5E7EB;
+}
