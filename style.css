@@ -47,9 +47,11 @@ body{
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
+    margin: 0;
 }
 
 .heroblurb p{
     size: 18px;
     color: #E5E7EB;
+    margin: 0;
 }
